@@ -1,4 +1,4 @@
-# DynamicConfig
+# Laravel Dynamic Config
 
 A Laravel utility for accessing configuration values stored in the database with caching support.
 
